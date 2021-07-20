@@ -41,9 +41,9 @@ UNIDAD 10
 
 5. CONCLUSIONES:
 
-*Tras el análisis a profundidad de los conceptos de Capacitancia e Inductancia, ahora somos capaces de reconocer las fallas en el capacitor y dar solución a los problemas.
+* Tras el análisis a profundidad de los conceptos de Capacitancia e Inductancia, ahora somos capaces de reconocer las fallas en el capacitor y dar solución a los problemas.
 
-*Se concluyo que con el uso de Teoremas de Redes facilitamos y reducimos el análisis y cálculo de Circuitos.
+* Se concluyo que con el uso de Teoremas de Redes facilitamos y reducimos el análisis y cálculo de Circuitos.
 
 6. BIBLIOGRAFÍA:
 
