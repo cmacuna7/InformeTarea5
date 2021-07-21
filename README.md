@@ -14,6 +14,8 @@
 
 2. Marco Teorico 
 
+![](Img/Mapa-10.jpg)
+
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
