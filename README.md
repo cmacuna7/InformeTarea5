@@ -20,6 +20,19 @@
 
 UNIDAD 9
 
+![](Img/1,3.PNG)
+
+![](Img/5,7.PNG)
+
+![](Img/9.PNG)
+
+![](Img/11,13.PNG)
+
+![](Img/15,17.PNG)
+
+![](Img/19,21.PNG)
+
+![](Img/25.PNG)
 
 
 UNIDAD 10
