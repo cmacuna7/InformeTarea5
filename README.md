@@ -36,6 +36,22 @@ UNIDAD 9
 
 ![](Img/25.PNG)
 
+![](Img/27.jpg)
+
+![](Img/29.jpg)
+
+![](Img/39.jpg)
+
+![](Img/41.jpg)
+
+![](Img/43.jpg)
+
+![](Img/47.jpg)
+
+![](Img/49.jpg)
+
+![](Img/51.jpg)
+
 
 UNIDAD 10
 
